@@ -1,1 +1,1 @@
-winget list >> source msstore
+winget list --source "msstore"
